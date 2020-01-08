@@ -1,0 +1,50 @@
+.container{
+    background-color:#596275;
+    height: 15%;
+    width: 90%;
+    margin: 0% 5%;
+    border-radius: 0% 0% 50% 50% ;
+    position: fixed;
+    top: 0;
+}
+
+.container li{   
+    text-align: center;  
+    list-style: none;
+}
+
+.menu{
+    background-color: #63cdda;
+    opacity: 50%;
+    height: 600px;
+    width: 10%;
+    position: fixed;
+    top: 0;
+    left: 5.4%;   
+}
+
+.r1, .r2{ 
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+
+.container_down {
+    background-color:#596275;
+    display: block;
+    height: 15%;
+    width: 90%;
+    margin: 0% 5%;
+    border-radius: 50% 50% 0% 0%;
+    position: fixed;
+    bottom: 0;
+}
+
+.container_down li{  
+    text-align: center;
+    list-style: none; 
+}
+
