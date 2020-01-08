@@ -29,8 +29,22 @@ header:hover,img:hover{
 
 /* блок 2 */
 .container{
-
+   margin-bottom: 50px;
 }
+
+.con1{
+    background-color: #27ae60;
+    margin: 15%;
+    border-left: 10px solid #f1c40f;
+}
+
+.con2{
+    background-color: #27ae60;
+    margin: 15%;
+    border-right:10px solid #f1c40f;
+    text-align: right;
+}
+
 
 /* блок 3 */
 footer{
